@@ -1,17 +1,14 @@
-# tugas_kampus
+# Latihan Flutter - Tugas Kampus
 
-A new Flutter project.
+Repository ini berisi tugas mata kuliah Aplikasi Mobile untuk membuat aplikasi Flutter pertama.
 
-## Getting Started
+## Data Mahasiswa
+* **Nama:** Muhamad Anggara
+* **NIM:** [Isi NIM Lu]
+* **Kampus:** Institut Teknologi & Bisnis Bina Sarana Global
+* **Jurusan:** [Isi Jurusan Lu]
+* **Kelas:** [Isi Kelas Lu]
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Penjelasan
+Aplikasi sederhana ini dibuat menggunakan framework **Flutter** dan bahasa pemrograman **Dart**. 
+Aplikasi ini hanya menampilkan data diri mahasiswa di tengah layar.
