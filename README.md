@@ -4,10 +4,10 @@ Repository ini berisi tugas mata kuliah Aplikasi Mobile untuk membuat aplikasi F
 
 ## Data Mahasiswa
 * **Nama:** Muhamad Anggara
-* **NIM:** [Isi NIM Lu]
+* **NIM:** [1124160219]
 * **Kampus:** Institut Teknologi & Bisnis Bina Sarana Global
-* **Jurusan:** [Isi Jurusan Lu]
-* **Kelas:** [Isi Kelas Lu]
+* **Jurusan:** [Software Engineering]
+* **Kelas:** [TI24PSE1]
 
 ## Penjelasan
 Aplikasi sederhana ini dibuat menggunakan framework **Flutter** dan bahasa pemrograman **Dart**. 
