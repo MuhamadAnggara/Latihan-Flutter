@@ -4,6 +4,10 @@ void main() {
   runApp(
      MaterialApp(
       home: Scaffold(
+        appBar: AppBar(
+          title: const Text('Biodata Anggara'),
+          backgroundColor: Colors.blueAccent,
+        ),
         body: Center(
           child: Container (
             padding: const EdgeInsets.all(20),
