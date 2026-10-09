@@ -5,8 +5,13 @@ void main() {
      MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Biodata Anggara'),
+          leading: const Icon(Icons.person_pin, size: 30, color: Colors.white,),
+          title: const Text(
+            'Biodata Orang Ganteng',
+            style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
+          ),
           backgroundColor: Colors.blueAccent,
+          centerTitle: true,
         ),
         body: Center(
           child: Container (
